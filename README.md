@@ -1,2 +1,2 @@
-# dataScience
-repository for data science
+# AI and DataScience
+repository for data science and deep learning work
